@@ -13,12 +13,12 @@ This is a web-app that generates random password for you of any length upto 20 c
 About 6 to 7 hours.
 
 ## Demo
-
+https://user-images.githubusercontent.com/100030958/192960508-0af30a3c-a65b-4e6d-ae4b-406f8ce0c251.mp4
 
 
 ## Live link
 
-
+[Password Generator](https://password-generator-souritaray.netlify.app/)
 
 ## Contact me on:
 
@@ -28,3 +28,7 @@ About 6 to 7 hours.
 ## Feedback
 
 You can provide your feedback at souritaray@gmail.com
+
+
+
+
